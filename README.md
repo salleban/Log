@@ -15,3 +15,4 @@ Artikkeli itessään oli melko lyhyt ja itselle sisältö vielä hieman tuntemat
 Kommenttien perusteella asian toimivuudesta LLM:ään viitaten. 
 "I keep hearing this assertion, that GPT can be wrong, therefore it’s an unworkable technology. But it’s a bad comparison. LLMs aren’t trying to be computationally correct like a calculator or something, the value is in their ability to semantically process a question. The other issue is assuming that the existing way of doing things is always correct."
 
+Lähde: https://github.com/TheAppleTucker/backend-GPT
