@@ -43,6 +43,7 @@ Kyseisessä kuvassa näen tapahtumia, kuinka viimeisimmät istunnot on minulla a
 Näissä apache2 kohdissa sitten ilmaantuikin ongelmia, johon en tässä ajassa löytänyt vastauksia. Yritin mennä ohjeiden antamalla tavalla lokikansioon, mutta terminaaliin tuli teksti no permission. Tähän kokeilin eri tapoja päästä kiinni apache2 hakemistoon, mutta turhaan. Alla kuvia yrityksistä, sekä terminaaliin ilmaantuneista vastauksista. 
 
 ![Apache status](https://user-images.githubusercontent.com/100162043/215350295-7b20fa76-b4de-4879-a174-0931a5069dd1.jpg)
+![varlogapache2](https://user-images.githubusercontent.com/100162043/215350454-8fab9771-6fef-4e78-b2b9-00a19c14c6c0.jpg)
 
 
 ## Lokitapahtumat
