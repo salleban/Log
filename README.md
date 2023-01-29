@@ -26,6 +26,7 @@ Käytän ensimmäisen kohdan syslog haussa seuraavaa hakutapaa:
       
 Tämän jälkeen sain pitkä liudan eri lokitietoja. Yritin näitä parhaani mukaan ymmärtää, mutta tekstirivien määrän ja sisällön ymmärtäminen oli hankalaa.
 Käytännössä systemlog näyttää kaiken mahdollisen tapahtuman.
+
 ![Syslog](https://user-images.githubusercontent.com/100162043/215350280-aa289f8a-9448-4b43-a8af-5e6f4748efc0.jpg)
 
 
@@ -34,6 +35,7 @@ Seuraavana vuorossa oli auth.log. Tässä käytin seuraavaa komentoa.
         $ sudo tail -f /var/log/auth.log
         
 Kyseisessä kuvassa näen tapahtumia, kuinka viimeisimmät istunnot on minulla alkaneet ja loppuneet. 
+
 [authlog](https://user-images.githubusercontent.com/100162043/215350286-9bd39a1a-038e-4304-8b5f-6c66e4c0c169.jpg)
 
 
