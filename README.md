@@ -36,7 +36,8 @@ Seuraavana vuorossa oli auth.log. Tässä käytin seuraavaa komentoa.
         
 Kyseisessä kuvassa näen tapahtumia, kuinka viimeisimmät istunnot on minulla alkaneet ja loppuneet. 
 
-[authlog](https://user-images.githubusercontent.com/100162043/215350286-9bd39a1a-038e-4304-8b5f-6c66e4c0c169.jpg)
+![authlog](https://user-images.githubusercontent.com/100162043/215350427-4b8dbb19-4b02-41bd-9f35-b3dcbacb3cfa.jpg)
+
 
 
 Näissä apache2 kohdissa sitten ilmaantuikin ongelmia, johon en tässä ajassa löytänyt vastauksia. Yritin mennä ohjeiden antamalla tavalla lokikansioon, mutta terminaaliin tuli teksti no permission. Tähän kokeilin eri tapoja päästä kiinni apache2 hakemistoon, mutta turhaan. Alla kuvia yrityksistä, sekä terminaaliin ilmaantuneista vastauksista. 
