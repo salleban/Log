@@ -27,7 +27,7 @@ Toinen artikkeli oli samaan aiheeseen liittyvä, joten valitsin myös tämän.
 Kommentti: 
 "How to approach building ChatGPT like chatbot for business application, to help users who do not like reading documentation? How much more precise the documentation should be, so chatbot would be actually useful? Is it possible to teach chatbot by having sessions with users who are experts of the application, so bot could gather required information from them?"
 
-https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626
+Lähde: https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626
 
 ### Oma ymmärrys GPTChat ohjelmaan. 
 
