@@ -18,9 +18,7 @@ Kommenttien perusteella asian toimivuudesta LLM:ään viitaten.
 
 Lähde: https://github.com/TheAppleTucker/backend-GPT
 
-Toinen artikkeli oli samaan aiheeseen liittyvä, joten valitsin myös tämän. 
-
-Asiassa puidaan vastaavanlaisesti GPTChat ohjelmiston toimivuutta ja epäillään
+Toinen artikkeli oli samaan aiheeseen liittyvä, joten valitsin myös tämän, mutta tähän en lähde sen enempää syventymään. 
 
 https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626
 
