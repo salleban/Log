@@ -18,12 +18,16 @@ Kommenttien perusteella asian toimivuudesta LLM:ään viitaten.
 
 Lähde: https://github.com/TheAppleTucker/backend-GPT
 
-Toinen artikkeli oli samaan aiheeseen liittyvä, joten valitsin myös tämän, mutta tähän en lähde sen enempää syventymään. 
+Toinen artikkeli oli samaan aiheeseen liittyvä, joten valitsin myös tämän.
 
-https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626
+- Aiheessa käsitellään kuinka kuinka jo valmiiksi huikea ohjelma olisi, jos sen voisi integroida omille verkkosivuilla ja opettaa ohjelmalle eri variaatioita.
+- GPTChat ohjelman vaikutuksia ja kuinka tämä ensimatkaaja saa myös syötettyä muita ideoita kehittäjien mieleen ja kuinka hyödyntää ja parannella ohjelmaa. 
+- Näkymä yritys maailmassa. 
 
 Kommentti: 
 "How to approach building ChatGPT like chatbot for business application, to help users who do not like reading documentation? How much more precise the documentation should be, so chatbot would be actually useful? Is it possible to teach chatbot by having sessions with users who are experts of the application, so bot could gather required information from them?"
+
+https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626
 
 ### Oma ymmärrys GPTChat ohjelmaan. 
 
