@@ -80,3 +80,5 @@ Ja koska kirjoitin myös kertaalleen salasanan väärin. Tämä näkyy heti kome
 ## Lopetus
 
 Harmittaa, että en löytänyt ratkaisua apache2 tiedoistoihin. Tähän varmasti osaavat seuraavalla luennolla joku vastata. 
+
+Jälkikäteen muistin, että piti ensin avata web browser ja käydä localhost/ kirjoittamassa selainkenttään, jonka jälkeen pääsin apache2 näkymään terminaalissa.
