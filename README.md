@@ -7,15 +7,29 @@ Valitsin artikkeliksi otsikolla "GPT is all you need for the backend".
 Artikkeli käsitteli pääpiirteittäin seuraavia aiheita:
 
 - Kuinka koodi ei ole ihanteellinen tapa koodata liiketoimintalogiikkaa. 
-- Kuinka artikkelin kirjoittaja puhuu monikossa rakentaneensa kokonaisen Backend tietokonanna, joka toimii LLM:n avulla. Lisäksi kuinka se päättelee liiketoimintalogiikkaa API-kutsun nimen perusteella.
+- Kuinka artikkelin kirjoittaja puhuu monikossa rakentaneensa kokonaisen Backend tietokannan, joka toimii LLM:n avulla. Lisäksi kuinka se päättelee liiketoimintalogiikkaa API-kutsun nimen perusteella.
 
 Artikkelissa kirjoittaja avaa mikä on tulevaisuus jota me kuvittelemme ja lainaa lopuksi Parkerin (etunimeä ei mainittu) sanoja. 
 Artikkeli itessään oli melko lyhyt ja itselle sisältö vielä hieman tuntematonta, joten tiivistelmä oli osaltaan hieman hankala toteuttaa. 
+
 
 Kommenttien perusteella asian toimivuudesta LLM:ään viitaten. 
 "I keep hearing this assertion, that GPT can be wrong, therefore it’s an unworkable technology. But it’s a bad comparison. LLMs aren’t trying to be computationally correct like a calculator or something, the value is in their ability to semantically process a question. The other issue is assuming that the existing way of doing things is always correct."
 
 Lähde: https://github.com/TheAppleTucker/backend-GPT
+
+Toinen artikkeli oli samaan aiheeseen liittyvä, joten valitsin myös tämän. 
+
+Asiassa puidaan vastaavanlaisesti GPTChat ohjelmiston toimivuutta ja epäillään
+
+https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626
+
+Kommentti: 
+"How to approach building ChatGPT like chatbot for business application, to help users who do not like reading documentation? How much more precise the documentation should be, so chatbot would be actually useful? Is it possible to teach chatbot by having sessions with users who are experts of the application, so bot could gather required information from them?"
+
+### Oma ymmärrys GPTChat ohjelmaan. 
+
+GPTChat on uudenlainen ohjelma, joka toimii tekoälyn avulla. Tästä on hieman ollut epäileviä mielipiteitä, kuinka tämä vaikuttaa työpaikkoihin, sillä kyseinen tekoäly on todettu melko älykkääksi. Kuitenkin tähän on annettu vastakommenttia, että pikemminkin GPTChat olisikin ennemmin niin sanottu työpari eikä niinkään työpaikkojen korvaaja. 
 
 ## Analysointia
 
