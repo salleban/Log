@@ -44,6 +44,7 @@ Näissä apache2 kohdissa sitten ilmaantuikin ongelmia, johon en tässä ajassa 
 
 ![Apache status](https://user-images.githubusercontent.com/100162043/215350295-7b20fa76-b4de-4879-a174-0931a5069dd1.jpg)
 ![varlogapache2](https://user-images.githubusercontent.com/100162043/215350454-8fab9771-6fef-4e78-b2b9-00a19c14c6c0.jpg)
+![Apache2 fail](https://user-images.githubusercontent.com/100162043/215447693-3f09e122-162e-414b-86c7-2c69cb77e4d4.jpg)
 
 
 ## Lokitapahtumat
