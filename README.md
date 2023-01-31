@@ -23,10 +23,6 @@ Toinen artikkeli oli samaan aiheeseen liittyvä, joten valitsin myös tämän.
 
 Lähde: https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626
 
-### Oma ymmärrys GPTChat ohjelmaan. 
-
-GPTChat on uudenlainen ohjelma, joka toimii tekoälyn avulla. Tästä on hieman ollut epäileviä mielipiteitä, kuinka tämä vaikuttaa työpaikkoihin, sillä kyseinen tekoäly on todettu melko älykkääksi. Kuitenkin tähän on annettu vastakommenttia, että pikemminkin GPTChat olisikin ennemmin niin sanottu työpari eikä niinkään työpaikkojen korvaaja. 
-
 ## Analysointia
 
 Käytän ensimmäisen kohdan syslog haussa seuraavaa hakutapaa:
