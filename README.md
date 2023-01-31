@@ -13,9 +13,6 @@ Artikkelissa kirjoittaja avaa mikä on tulevaisuus jota me kuvittelemme ja laina
 Artikkeli itessään oli melko lyhyt ja itselle sisältö vielä hieman tuntematonta, joten tiivistelmä oli osaltaan hieman hankala toteuttaa. 
 
 
-Kommenttien perusteella asian toimivuudesta LLM:ään viitaten. 
-"I keep hearing this assertion, that GPT can be wrong, therefore it’s an unworkable technology. But it’s a bad comparison. LLMs aren’t trying to be computationally correct like a calculator or something, the value is in their ability to semantically process a question. The other issue is assuming that the existing way of doing things is always correct."
-
 Lähde: https://github.com/TheAppleTucker/backend-GPT
 
 Toinen artikkeli oli samaan aiheeseen liittyvä, joten valitsin myös tämän.
@@ -23,9 +20,6 @@ Toinen artikkeli oli samaan aiheeseen liittyvä, joten valitsin myös tämän.
 - Aiheessa käsitellään kuinka kuinka jo valmiiksi huikea ohjelma olisi, jos sen voisi integroida omille verkkosivuilla ja opettaa ohjelmalle eri variaatioita.
 - GPTChat ohjelman vaikutuksia ja kuinka tämä ensimatkaaja saa myös syötettyä muita ideoita kehittäjien mieleen ja kuinka hyödyntää ja parannella ohjelmaa. 
 - Näkymä yritys maailmassa. 
-
-Kommentti: 
-"How to approach building ChatGPT like chatbot for business application, to help users who do not like reading documentation? How much more precise the documentation should be, so chatbot would be actually useful? Is it possible to teach chatbot by having sessions with users who are experts of the application, so bot could gather required information from them?"
 
 Lähde: https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626
 
